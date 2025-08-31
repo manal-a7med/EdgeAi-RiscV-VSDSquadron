@@ -12,6 +12,9 @@
 It contains instructional Jupyter notebooks, datasets, header files, and visual outputs used throughout the sessions—making it a complete reference for learners, researchers, and hobbyists exploring the intersection of **AI and RISC-V**.
 
 ---
+This repository documents my learning journey through the RISC-V Edge AI with VSDSquadron PRO course, offered by VLSI System Design (VSD). The course focuses on implementing machine learning (ML) and artificial intelligence (AI) models on resource-constrained embedded systems, targeting the VSDSquadron PRO board powered by the SiFive FE310-G002 RISC-V SoC. Due to the absence of physical hardware, this project was developed and simulated using Visual Studio Code (VSCode) for both the camera-based image capture and the training of a quantized neural network for MNIST handwritten digit classification.
+
+The project uses a training.py script to train and quantize an 8-bit neural network model for MNIST digit recognition, with inference simulated in a bare-metal environment compatible with the SiFive FE310-G002. This README outlines the course content, project setup, key learnings, and instructions for running the simulated application.
 
 ## 📂 Repository Structure
 
