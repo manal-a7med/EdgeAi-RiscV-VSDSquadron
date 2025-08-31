@@ -8,7 +8,7 @@ A repo for documenting my 10-day extensive workshop on RiscV-EdgeAi
 
 ---
 
-## 📌 Overview
+## Overview
 
 **EdgeAI-RiscV-VSDSquadron** is a repository documenting a 10-day extensive workshop on applying **RISC-V architecture** in **Edge AI** contexts.  
 
@@ -59,9 +59,9 @@ It contains instructional Jupyter notebooks, datasets, header files, and visual 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### ✅ Prerequisites
+###  Prerequisites
 - Python 3.x  
 - Jupyter Notebook or JupyterLab  
 - Python libraries:  
@@ -98,7 +98,7 @@ It contains instructional Jupyter notebooks, datasets, header files, and visual 
 
 ---
 
-## 📚 Suggested Workshop Flow
+## Suggested Workshop Flow
 
 1. **Neural_Networks.ipynb** → Basics of neural networks  
 2. **Regression_Classification.ipynb** → Apply ML models on datasets  
@@ -109,7 +109,7 @@ Use `Output_Images/` for visual reference of results.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! 🚀  
 - Improve notebooks  
@@ -121,14 +121,14 @@ Open an **issue** or submit a **pull request** if you’d like to collaborate.
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License**.  
 See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📬 Contact
+## Contact
 
 Maintained by **[Manal Ahmed](https://github.com/manal-a7med)**.  
 For questions or collaboration ideas, reach out via GitHub.
