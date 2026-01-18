@@ -69,8 +69,6 @@ The project uses a training.py script to train and quantize an 8-bit neural netw
   pip install numpy pandas matplotlib scikit-learn tensorflow keras
   ```
 
-*(Consider adding a `requirements.txt` for convenience.)*
-
 ---
 
 ### ⚡ Setup & Usage
@@ -85,7 +83,6 @@ The project uses a training.py script to train and quantize an 8-bit neural netw
    ```bash
    pip install -r requirements.txt
    ```
-   *(If `requirements.txt` is not yet available, manually install the libraries above.)*
 
 3. **Run notebooks**
    ```bash
